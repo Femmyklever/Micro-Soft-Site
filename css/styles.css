@@ -281,11 +281,10 @@ img.logo{
 
 @media(max-width: 700px){
 
-    body{
-        background-color:lightblue;
-        width: 50%;
-    }
-    
+   .container{
+    width: 45%;
+   }
+
     .menu-btn{
         display: block;
     }
