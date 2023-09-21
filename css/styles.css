@@ -280,6 +280,9 @@ img.logo{
 /* Media Queries */
 
 @media(max-width: 700px){
+   body{
+        background-color: lightgrey;
+    }
     .menu-btn{
         display: block;
     }
