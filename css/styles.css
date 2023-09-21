@@ -279,7 +279,7 @@ img.logo{
 
 /* Media Queries */
 
-@media screen and (max-width: 700px){
+@media(max-width: 700px){
 
     body{
         background-color: red;
@@ -342,7 +342,7 @@ img.logo{
 }
 
 
-@media screen and (max-width: 500px){
+@media(max-width: 500px){
     .home-cards{
         grid-template-columns: 1fr;
     }
